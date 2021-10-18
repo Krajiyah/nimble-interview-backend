@@ -1,0 +1,4 @@
+unit-test-*.db
+coverage
+vendor
+# configs <-- would be gitignored in production and then would use key vault to construct env files ad hoc during deployments
